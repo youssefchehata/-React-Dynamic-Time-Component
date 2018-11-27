@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    margin-top: -21%;
+    margin-left: 40%;
+}
+  
+  .hours,.minutes,.seconds{
+    display: flex;
+    flex-direction: column;
+    margin-right: 15px;
+  
+  }
+  
+  span{
+    padding-bottom: 8
+    px
+  }
+  .sec1{
+    font-weight: bold;
+    font-size: 35px
+  }
+  
+  .sec2{
+    color:grey
+  }

@@ -1,0 +1,43 @@
+.allbutton
+{
+    display: inline-flex;
+    justify-content: space-evenly;
+    padding-top: 3%;
+}
+.thebutton {
+    background: blanchedalmond;
+    border-radius: 102px;
+    width: 135%;
+    text-decoration: none;
+    padding: 17%;
+    padding-bottom: 14%;
+}
+
+/* ------------------------- */
+.timer-digits{
+    font-size: 300%;
+    
+        padding-top: 17%;
+    
+}
+.timer-text {
+    display: flex;
+    justify-content: center;
+    color: gray;
+}
+.timer-minute{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.timer {
+    background: orange;
+    border-radius: 25px;
+    display: flex;
+    margin-left: 35%;
+    width: 21%;
+    height: 414px;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 8%;
+    padding-top: 4%;
+}
